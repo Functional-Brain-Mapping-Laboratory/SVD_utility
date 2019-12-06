@@ -1,0 +1,5 @@
+PyQt5
+numpy
+pycartool
+scikit-learn
+pandas
